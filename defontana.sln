@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "defontana", "defontana\defontana.csproj", "{586F394B-6706-4552-9833-3BD11F9B6D60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persistencia", "persistencia\persistencia.csproj", "{E253BF61-E90E-4522-92E3-E3D9FEA7E29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{586F394B-6706-4552-9833-3BD11F9B6D60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{586F394B-6706-4552-9833-3BD11F9B6D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{586F394B-6706-4552-9833-3BD11F9B6D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{586F394B-6706-4552-9833-3BD11F9B6D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E253BF61-E90E-4522-92E3-E3D9FEA7E29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E253BF61-E90E-4522-92E3-E3D9FEA7E29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E253BF61-E90E-4522-92E3-E3D9FEA7E29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E253BF61-E90E-4522-92E3-E3D9FEA7E29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {976FCD15-10BA-4061-B744-D8F90EC78BC8}
+	EndGlobalSection
+EndGlobal

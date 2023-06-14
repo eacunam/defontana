@@ -1,0 +1,11 @@
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\persistencia.dll.config
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\persistencia.dll
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\persistencia.pdb
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\EntityFramework.dll
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\EntityFramework.xml
+C:\Edgar\Defontana ejercicio\defontana\persistencia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Edgar\Defontana ejercicio\defontana\persistencia\obj\Debug\persistencia.csproj.CoreCompileInputs.cache
+C:\Edgar\Defontana ejercicio\defontana\persistencia\obj\Debug\persistencia.csproj.CopyComplete
+C:\Edgar\Defontana ejercicio\defontana\persistencia\obj\Debug\persistencia.dll
+C:\Edgar\Defontana ejercicio\defontana\persistencia\obj\Debug\persistencia.pdb
